@@ -1,0 +1,23 @@
+.block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    color: white;
+    
+    p{
+        font-size: 56px;
+    }
+    input{
+        width: 350px;
+        height: 50px;
+        border-radius: 14px;
+
+       
+    }
+}
+.block input::placeholder{
+    padding-left: 16px;
+    font-size: 22px;
+    color: black;
+}

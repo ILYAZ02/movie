@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Он лайф",
+        "id": "цена:",
+        "price": "18+" ,
+        "image":"./img_popular/img1.jpg"
+       
+    },
+    {
+        "name": "Руссо экспрессо",
+        "id": "цена:",
+        "price": "16+" ,
+        "image":"./img_popular/img2.jpg"
+    },
+    {
+        "name": "Концерты",
+        "id": "цена:",
+        "price": "12+" ,
+        "image":"./img_popular/img3.jpg"
+    },
+    {
+        "name": "Красная шапочка",
+        "id": "цена:",
+        "price": "14+" ,
+        "image":"./img_popular/img4.jpg"
+    },
+    {
+        "name": "Универ",
+        "id": "цена:",
+        "price": "16+" ,
+        "image":"./img_popular/img5.jpg"
+    },
+    {
+        "name": "Подарок с характером",
+        "id": "цена:",
+        "price": "14+" ,
+        "image":"./img_popular/img6.jpg"
+    },
+    {
+        "name": "Поехали",
+        "id": "цена:",
+        "price": "16+" ,
+        "image":"./img_popular/img7.jpg"
+    },
+    {
+        "name": "Отпуск",
+        "id": "цена:",
+        "price": "12+" ,
+        "image":"./img_popular/img8.jpg"
+    },
+    {
+        "name": "Голиаф",
+        "id": "цена:",
+        "price": "16+" ,
+        "image":"./img_popular/img9.jpg"
+    }, 
+    {
+        "name": "Балабол",
+        "id": "цена:",
+        "price": "12+" ,
+        "image":"./img_popular/img10.jpg"
+    }  
+]
